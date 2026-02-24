@@ -1,0 +1,30 @@
+[
+  {
+    "id": "harare",
+    "name": "Harare",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=60",
+    "tips": [
+      "Keep hydrated in hot months.",
+      "Use trusted transport services when moving at night.",
+      "Keep emergency contacts saved."
+    ]
+  },
+  {
+    "id": "bulawayo",
+    "name": "Bulawayo",
+    "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=60",
+    "tips": [
+      "Carry a light jacket in cooler evenings.",
+      "Plan routes early when visiting outskirts."
+    ]
+  },
+  {
+    "id": "gweru",
+    "name": "Gweru",
+    "image": "https://images.unsplash.com/photo-1523419409543-a5e549c1faa9?auto=format&fit=crop&w=1200&q=60",
+    "tips": [
+      "Carry basic first aid for long-distance travel.",
+      "Share your route with a friend if travelling late."
+    ]
+  }
+]

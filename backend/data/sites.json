@@ -1,0 +1,38 @@
+[
+  {
+    "id": "great-zimbabwe",
+    "name": "Great Zimbabwe",
+    "province": "Masvingo",
+    "description": "Ancient stone city and UNESCO World Heritage Site.",
+    "image": "https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?auto=format&fit=crop&w=1200&q=60",
+    "healthTips": [
+      "Carry drinking water and sunscreen.",
+      "Wear comfortable walking shoes (rocky paths).",
+      "Pack a small first-aid kit (plasters, pain relief)."
+    ],
+    "safetyTips": [
+      "Avoid walking alone at night.",
+      "Keep valuables secure in crowded areas."
+    ],
+    "whatToCarry": ["Water", "Sunscreen", "Hat", "Comfortable shoes", "Small first-aid kit"],
+    "location": { "lat": -20.2675, "lng": 30.9333 }
+  },
+  {
+    "id": "victoria-falls",
+    "name": "Victoria Falls",
+    "province": "Matabeleland North",
+    "description": "One of the Seven Natural Wonders of the World and a UNESCO site.",
+    "image": "https://images.unsplash.com/photo-1547036967-23d11aacaee0?auto=format&fit=crop&w=1200&q=60",
+    "healthTips": [
+      "Wear a rain jacket near the spray zone.",
+      "Use insect repellent (especially evenings).",
+      "Stay hydrated and take breaks."
+    ],
+    "safetyTips": [
+      "Follow all safety signs near edges and viewpoints.",
+      "Use licensed tour guides for activities."
+    ],
+    "whatToCarry": ["Rain jacket", "Insect repellent", "Water", "Power bank"],
+    "location": { "lat": -17.9243, "lng": 25.8572 }
+  }
+]
