@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useState } from "react";
 import { Link, Route, Routes, useNavigate, useParams } from "react-router-dom";
 
-const API_BASE = "";
+const API_BASE = import.meta.env.VITE_API_BASE || "";
 
 function mapsLink(lat, lng) {
   return `https://www.google.com/maps?q=${lat},${lng}`;
